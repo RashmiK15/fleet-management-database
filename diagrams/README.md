@@ -1,3 +1,3 @@
 ## ER Diagram
 
-![Fleet Management ER Diagram](diagrams/er-diagram.png)
+![Fleet Management ER Diagram](er-diagram.png)
